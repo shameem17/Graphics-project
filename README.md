@@ -34,3 +34,7 @@ V -- zoom out
 B -- birds eye view
 
 
+![image](https://user-images.githubusercontent.com/53037559/223337183-d78d3eca-e998-4e8e-a645-fde406c6f95a.png)
+
+
+
